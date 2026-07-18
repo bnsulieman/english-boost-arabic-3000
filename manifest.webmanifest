@@ -1,0 +1,12 @@
+{
+  "name": "English Boost",
+  "short_name": "English Boost",
+  "description": "تطبيق English Boost لتعلّم اللغة الإنجليزية",
+  "start_url": "./#home",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7ff",
+  "theme_color": "#5b28ef",
+  "lang": "ar",
+  "dir": "rtl"
+}
